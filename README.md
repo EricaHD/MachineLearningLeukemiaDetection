@@ -1,7 +1,7 @@
 # Using Machine Learning to Detect Acute Myeloid Leukemia
 #### DS1003 Machine Learning, Spring 2018
 
-Joanna Bitton and Erica Dominic
+Erica Dominic and Joanna Bitton
 
 #### Abstract
 
